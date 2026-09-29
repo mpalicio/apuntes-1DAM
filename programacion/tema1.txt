@@ -5,3 +5,4 @@ Tema 1: Introducción a la programación
 - if: permite ejecutar instrucciones si se cumple una condición.
 - while: repite instrucciones mientras se cumple una condición.
 - for: permite organizar un bucle con un inicio, una condición y una actualización.
+- Ejercicio: practicar las estructuras de control con ejemplos.
