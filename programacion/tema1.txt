@@ -2,3 +2,6 @@ Tema 1: Introducción a la programación
 - Algoritmos
 - Diagramas de flujo
 - Estructuras de control: if, while, for
+- if: permite ejecutar instrucciones si se cumple una condición.
+- while: repite instrucciones mientras se cumple una condición.
+- for: permite organizar un bucle con un inicio, una condición y una actualización.
